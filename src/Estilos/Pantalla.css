@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "Calculator";
+  src: url("./fuentes/Calculator.ttf") format("truetype");
+}
+
+.input {
+  max-height: 75px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  padding: 5px 10px 5px 10px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  font-size: 60px;
+  background-color: #cbd2d5;
+  color: #2a2e36;
+  font-family: Calculator, Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  text-shadow: 2px 5px 3px #0c101688;
+}
