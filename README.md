@@ -28,8 +28,8 @@ Esta aplicación de calculadora permite a los usuarios realizar operaciones bás
 Para instalar la aplicación, sigue los siguientes pasos:
 
 1. Clona el repositorio en tu máquina local
-2. Instala las dependencias con `npm install`
-3. Inicia la aplicación con `npx vite`
+2. Instala las dependencias con `pnpm install`
+3. Inicia la aplicación con `pnpm run dev`
 
 ## Uso
 
@@ -39,8 +39,8 @@ Para instalar la aplicación, sigue los siguientes pasos:
 
 ## Créditos
 
-- Logo creado por [Yehison Perdomo](https://yehison-perdomo.netlify.app/)
-- Desarrollado por [Tu nombre]
+- Logo creado por [Emily Castro](https://www.linkedin.com/in/emilyda-castrog/)
+- Proyecto desarrollado por [Yehsion Perdomo](https://yehison-perdomo.netlify.app/)
 
 ## Licencia
 
